@@ -1,0 +1,22 @@
+[
+  { "id": 1, "projectId": 1, "title": "Update eGov portal", "status": "In Progress" },
+  { "id": 2, "projectId": 2, "title": "Organize startup marathon", "status": "Completed" },
+  { "id": 3, "projectId": 3, "title": "Install smart traffic lights", "status": "Planned" },
+  { "id": 4, "projectId": 4, "title": "Launch accelerator program", "status": "In Progress" },
+  { "id": 5, "projectId": 5, "title": "Hold international forum", "status": "Active" },
+  { "id": 6, "projectId": 6, "title": "Publish research results", "status": "Completed" },
+  { "id": 7, "projectId": 7, "title": "Develop wind energy sites", "status": "Planned" },
+  { "id": 8, "projectId": 8, "title": "Pilot smart irrigation system", "status": "Active" },
+  { "id": 9, "projectId": 9, "title": "Upgrade logistics software", "status": "In Progress" },
+  { "id": 10, "projectId": 10, "title": "Host entrepreneurial workshop", "status": "Ongoing" },
+  { "id": 11, "projectId": 11, "title": "Build new mining facilities", "status": "Completed" },
+  { "id": 12, "projectId": 12, "title": "Create online course platform", "status": "Planned" },
+  { "id": 13, "projectId": 13, "title": "Launch e-commerce training", "status": "Active" },
+  { "id": 14, "projectId": 14, "title": "Repurpose Expo pavilions", "status": "Completed" },
+  { "id": 15, "projectId": 15, "title": "Develop local tour packages", "status": "Ongoing" },
+  { "id": 16, "projectId": 16, "title": "Implement online lessons", "status": "Active" },
+  { "id": 17, "projectId": 17, "title": "Equip hospitals with IT systems", "status": "Planned" },
+  { "id": 18, "projectId": 18, "title": "Prepare youth innovation guide", "status": "In Progress" },
+  { "id": 19, "projectId": 19, "title": "Develop digital cooperation plan", "status": "Active" },
+  { "id": 20, "projectId": 20, "title": "Install electric bus stations", "status": "Planned" }
+]

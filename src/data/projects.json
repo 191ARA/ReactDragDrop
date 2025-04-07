@@ -1,0 +1,22 @@
+[
+  { "id": 1, "name": "Digital Kazakhstan", "description": "State program for digital transformation", "status": "Active" },
+  { "id": 2, "name": "Astana Hub", "description": "Technological park for startups", "status": "Ongoing" },
+  { "id": 3, "name": "Almaty Smart City", "description": "Smart city infrastructure digitalization", "status": "Planned" },
+  { "id": 4, "name": "QazTech Ventures", "description": "Support fund for tech projects", "status": "Completed" },
+  { "id": 5, "name": "Kazakh Invest", "description": "Foreign investment in the economy", "status": "Active" },
+  { "id": 6, "name": "Nazarbayev University Research", "description": "Innovative research in technology", "status": "Ongoing" },
+  { "id": 7, "name": "Green Energy Initiative", "description": "Renewable energy development", "status": "Active" },
+  { "id": 8, "name": "Smart Agriculture", "description": "Digital solutions for farming", "status": "Planned" },
+  { "id": 9, "name": "Silk Way Logistics", "description": "Modernization of transport routes", "status": "Active" },
+  { "id": 10, "name": "Startup Bolashak", "description": "Support for young entrepreneurs", "status": "Ongoing" },
+  { "id": 11, "name": "KazMinerals Expansion", "description": "New mining infrastructure", "status": "Completed" },
+  { "id": 12, "name": "Astana IT University Development", "description": "Building new IT courses", "status": "Planned" },
+  { "id": 13, "name": "E-commerce Growth", "description": "Support for online businesses", "status": "Active" },
+  { "id": 14, "name": "Expo 2017 Legacy", "description": "Utilizing Expo infrastructure", "status": "Completed" },
+  { "id": 15, "name": "Kazakhstan Tourism Boost", "description": "Promoting local tourism", "status": "Active" },
+  { "id": 16, "name": "Smart Schools", "description": "Digital education transformation", "status": "Ongoing" },
+  { "id": 17, "name": "Healthcare Modernization", "description": "Upgrading medical facilities", "status": "Planned" },
+  { "id": 18, "name": "Youth Innovation Forum", "description": "Event to promote youth innovation", "status": "Ongoing" },
+  { "id": 19, "name": "Digital Silk Road", "description": "Connecting Central Asia through tech", "status": "Active" },
+  { "id": 20, "name": "Urban Mobility", "description": "Smart transportation systems", "status": "Planned" }
+]
