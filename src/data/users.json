@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Dimash Kudaibergen",
+    "role": "Project Manager",
+    "email": "dimash.kudaibergen@example.kz",
+    "location": "Astana, Kazakhstan",
+    "authenticated": true
+  },
+  {
+    "id": 2,
+    "name": "Gennady Golovkin",
+    "role": "Developer",
+    "email": "gennady.golovkin@example.kz",
+    "location": "Karaganda, Kazakhstan",
+    "authenticated": true
+  },
+  {
+    "id": 3,
+    "name": "Ilya Ilyin",
+    "role": "Designer",
+    "email": "ilya.ilyin@example.kz",
+    "location": "Shymkent, Kazakhstan",
+    "authenticated": false
+  },
+  {
+    "id": 4,
+    "name": "Kairat Nurtas",
+    "role": "Tester",
+    "email": "kairat.nurtas@example.kz",
+    "location": "Shymkent, Kazakhstan",
+    "authenticated": false
+  },
+  {
+    "id": 5,
+    "name": "Bibigul Tulegenova",
+    "role": "Data Analyst",
+    "email": "bibigul.tulegenova@example.kz",
+    "location": "Almaty, Kazakhstan",
+    "authenticated": true
+  },
+  {
+    "id": 6,
+    "name": "Nursultan Nazarbayev",
+    "role": "System Administrator",
+    "email": "nursultan.nazarbayev@example.kz",
+    "location": "Astana, Kazakhstan",
+    "authenticated": true
+  },
+  {
+    "id": 7,
+    "name": "Yerzhan Maxim",
+    "role": "Junior Developer",
+    "email": "yerzhan.maxim@example.kz",
+    "location": "Aktau, Kazakhstan",
+    "authenticated": false
+  },
+  {
+    "id": 8,
+    "name": "Aslan Zhaksylykov",
+    "role": "DevOps Engineer",
+    "email": "aslan.zhaksylykov@example.kz",
+    "location": "Pavlodar, Kazakhstan",
+    "authenticated": true
+  },
+  {
+    "id": 9,
+    "name": "Aliya Yussupova",
+    "role": "Frontend Developer",
+    "email": "aliya.yussupova@example.kz",
+    "location": "Kostanay, Kazakhstan",
+    "authenticated": true
+  },
+  {
+    "id": 10,
+    "name": "Arystanbek Mukhamediuly",
+    "role": "Architect",
+    "email": "arystanbek.mukhamediuly@example.kz",
+    "location": "Semey, Kazakhstan",
+    "authenticated": false
+  },
+  {
+    "id": 11,
+    "name": "Karina Sarsenova",
+    "role": "HR Specialist",
+    "email": "karina.sarsenova@example.kz",
+    "location": "Turkestan, Kazakhstan",
+    "authenticated": true
+  },
+  {
+    "id": 12,
+    "name": "Adilkhan Yerzhanov",
+    "role": "Product Owner",
+    "email": "adilkhan.yerzhanov@example.kz",
+    "location": "Ust-Kamenogorsk, Kazakhstan",
+    "authenticated": true
+  },
+  {
+    "id": 13,
+    "name": "Zhansaya Abdumalik",
+    "role": "Database Administrator",
+    "email": "zhansaya.abdumalik@example.kz",
+    "location": "Taraz, Kazakhstan",
+    "authenticated": false
+  },
+  {
+    "id": 14,
+    "name": "Kanat Islam",
+    "role": "Backend Developer",
+    "email": "kanat.islam@example.kz",
+    "location": "Uralsk, Kazakhstan",
+    "authenticated": false
+  },
+  {
+    "id": 15,
+    "name": "Madina Saduakasova",
+    "role": "Marketing Manager",
+    "email": "madina.saduakasova@example.kz",
+    "location": "Kyzylorda, Kazakhstan",
+    "authenticated": true
+  }
+]
